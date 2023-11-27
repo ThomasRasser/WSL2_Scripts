@@ -42,7 +42,7 @@ function cpypw {
     echo "$win_path" | sed 's/\\mnt\\c/C:/g' | clip.exe
   else
     # Prepend the WSL path
-    echo "\\\\wsl.localhost\\Ubuntu$win_path" | clip.exe
+    echo "\\\\\\wsl.localhost\\\\Ubuntu$win_path" | clip.exe
   fi
 
   return 1

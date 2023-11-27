@@ -34,7 +34,7 @@ function convpw {
     echo "$win_path" | sed 's/\\mnt\\c/C:/g'
   else
     # Prepend the WSL path
-    echo "\\\\wsl.localhost\\Ubuntu$win_path"
+    echo "\\\\\\wsl.localhost\\\\Ubuntu$win_path"
   fi
 
   return 1
