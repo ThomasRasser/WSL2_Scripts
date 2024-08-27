@@ -5,6 +5,7 @@
 # Purpose: Copy a path to a file into the windows clipboard 
 # Usage: cpypf [FILE] or echo [FILE] | cpypf
 # Output:  <None>
+
 function cpyp {
   
   local input_file

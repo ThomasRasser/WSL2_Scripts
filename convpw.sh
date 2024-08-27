@@ -19,23 +19,25 @@ function convpw {
     input_path=$1
   elif [ $# -eq 0 ]; then
     input_path=$(pwd)
-  
   else
     echo "Usage: convpw [PATH] or echo [PATH] | convpw"
     return 1
   fi
 
-  # Replace all '/' with '\'
-  local win_path=$(echo "$input_path" | sed 's/\//\\\\/g')
+  # Resolve relative path to absolute path
+  local abs_path=$(realpath "$input_path")
 
-  # Check if path is already on the windows drive on or WSL
-  if [[ "$input_path" == "/mnt/c"* ]]; then
-    # Repalce "mnt/c" with "C:"
+  # Replace all '/' with '\\'
+  local win_path=$(echo "$abs_path" | sed 's/\//\\\\/g')
+
+  # Check if path is already on the windows drive or on WSL
+  if [[ "$abs_path" == "/mnt/c"* ]]; then
+    # Replace "mnt/c" with "C:"
     echo "$win_path" | sed 's/\\mnt\\c/C:/g'
   else
     # Prepend the WSL path
     echo "\\\\\\wsl.localhost\\\\Ubuntu$win_path"
   fi
 
-  return 1
+  return 0
 }
