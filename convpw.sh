@@ -8,7 +8,7 @@
 # Usage: convpw [PATH] or echo [PATH] | convpw
 # Output: <path of given file in windows format>
 function convpw {
-  
+
   local input_path
 
   # Check if input is provided via pipe or as an argument

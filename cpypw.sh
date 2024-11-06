@@ -9,7 +9,7 @@
 # and copies it to the clipboard
 # Usage: cpypw [PATH] or echo [PATH] | cpypw
 function cpypw {
-  
+
   local input_path
 
   # Check if input is provided via pipe or as an argument
@@ -20,7 +20,7 @@ function cpypw {
     input_path=$1
   elif [ $# -eq 0 ]; then
     input_path=$(pwd)
-  
+
   else
     echo "Usage: cpypw [PATH] or echo [PATH] | cpypw"
     return 1

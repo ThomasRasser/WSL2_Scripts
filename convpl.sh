@@ -9,7 +9,7 @@
 # Usage: convpl [PATH] or echo [PATH] | convpl
 # Output: <path of given file in wsl format>
 function convpl {
-  
+
   local input_path
 
   # Check if input is provided via pipe or as an argument
@@ -41,7 +41,7 @@ function convpl {
     echo "Invalid Path"
     return 1
   fi
-  
+
   printf "%s" "$wsl_path"
   return 0
 }
