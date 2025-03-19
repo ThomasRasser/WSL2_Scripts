@@ -45,5 +45,5 @@ function cpypw {
     echo "\\\\\\wsl.localhost\\\\Ubuntu$win_path" | clip.exe
   fi
 
-  return 1
+  return 0
 }

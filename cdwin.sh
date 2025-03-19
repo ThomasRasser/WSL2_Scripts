@@ -9,6 +9,7 @@
 # and changes to this directory, if it exists
 # But it does only work with full paths, not relative paths
 # Usage: cdwin [PATH]
+
 function cdwin() {
 
     # Validate input
@@ -18,9 +19,9 @@ function cdwin() {
     fi
     local input_path="$1"
 
-    # Use convpl to convert the path
+    # Use convwp to convert the windows path into its WSL counterpart
     local linux_path
-    linux_path=$(convpl "$input_path") || return 1
+    linux_path=$(convwp "$input_path") || return 1
 
     # Check if the converted path exists and change directory
     if [[ -e "$linux_path" ]]; then

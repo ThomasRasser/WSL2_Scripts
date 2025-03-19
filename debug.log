@@ -1,0 +1,658 @@
+iswinp
+iswslp
+[] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+iswinp
+iswslp
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+iswinp
+iswslp
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: [iswslp] Error: No input provided.
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: [iswslp] Error: No input provided.
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: 
+[iswinp] Checking if input is empty.
+[iswinp] Input is empty.
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: 
+[iswslp] Checking if input is empty.
+[iswslp] Input is empty.
+[convlp] Invalid WSL Path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges. iswslp output: 
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path.
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via powershell.
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges is a valid Windows path.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path.
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via powershell.
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges is a valid Windows path.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] command -v iswinp: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] command -v iswslp: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path.
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via powershell.
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges is a valid Windows path.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path.
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via powershell.
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges is a valid Windows path.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path.
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via powershell.
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges is a valid Windows path.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Invalid Windows Path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] Checking if the path exists via PowerShell: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Trying to read input.
+[convlp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Checking if iswinp is available.
+[convlp] iswinp is available at: iswinp
+[convlp] Checking if the input path is a valid Windows path.
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] This path does not start with '\\' or a drive letter (e.g. 'C:\').
+[convlp] The input path is not a valid Windows path and MUST be converted.
+[convlp] Checking if iswslp is available.
+[convlp] iswslp is available at: iswslp
+[convlp] Checking if the input path is a valid WSL path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Trying to read input.
+[iswslp] Input received via pipe: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[iswslp] Checking if input is empty.
+[iswslp] Checking if the path starts with '/'
+[iswslp] Checking if the path contains invalid characters.
+[iswslp] Checking if the path exists.
+[iswslp] This path is a valid WSL path:
+/home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Valid WSL Path confirmed: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Resolved absolute path: /home/thomas/desktop/tu/10_Semester/5_Smart_Contracts_SC/2_Challenges
+[convlp] Converted slashes to double-backslashes: \\home\\thomas\\desktop\\tu\\10_Semester\\5_Smart_Contracts_SC\\2_Challenges
+[convlp] Changed path to Windows format: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[convlp] Checking if the created Windows path is valid: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Trying to read input.
+[iswinp] Input received via pipe: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges
+[iswinp] Checking if input is empty.
+[iswinp] Checking for invalid characters in the path.
+[iswinp] This path is a valid Windows path:
+\\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges.
+[convlp] Converted WSL path to Windows path: \\wsl.localhost\Ubuntu\home\thomas\desktop\tu\10_Semester\5_Smart_Contracts_SC\2_Challenges

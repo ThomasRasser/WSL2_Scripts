@@ -17,3 +17,8 @@ Now they can be used directly in the shell like this
 ```bash
 > cpypw file.txt
 ```
+# TODO
+- [ ] Fix convwp and therefore cdwin
+- [ ] Add all debug logs to convwp
+- [ ] Make sure cdwin changes my actual shell path and not its own
+- [ ] Use convlp and use it in cpypw and add debug
